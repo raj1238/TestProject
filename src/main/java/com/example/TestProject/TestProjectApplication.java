@@ -21,6 +21,7 @@ public class TestProjectApplication {
 		expenseManager.addUser(new User("u2", "User2", "sagar@workat.tech", "9876543210"));
 		expenseManager.addUser(new User("u3", "User3", "hi@workat.tech", "9876543210"));
 		expenseManager.addUser(new User("u4", "User4", "mock-interviews@workat.tech", "9876543210"));
+		expenseManager.addUser(new User("u5", "User5", "anshu-bhaddu@workat.tech", "9874324210"));
 
 		Scanner scanner = new Scanner(System.in);
 		while (true) {
